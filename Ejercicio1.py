@@ -1,0 +1,3 @@
+nombre = input("¿Cómo te llamas?")
+edad = input("¿Cuántos años tienes?")
+print(f"Hola {nombre}, tienes {edad} años! Encantado de conocerte.")
