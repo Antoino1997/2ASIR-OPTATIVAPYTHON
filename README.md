@@ -15,3 +15,4 @@ Ejercicio | Descripción
 [Ejercicio7](/b1_7_filtrar_lista.py) | Filtrado de lista con for y continue: Define una lista de nombres y usa un bucle for junto con continue para mostrar solo aquellos nombres que no empiecen por 'A'.
 [Ejercicio8](/b1_8_tabla_multiplicar.py) | Genera la tabla de multiplicar (del 1 al 10) de un número introducido por el usuario, utilizando un bucle.
 [Ejercicio9](/b1_9_analizador_notas.py) | Analizador de notas y depuración: Pide tres notas, calcula el promedio, e intencionalmente contiene un error lógico que debe ser encontrado y corregido usando el modo de depuración de IntelliJ.
+[Ejercicio10](/b1_10_login.py) | Sistema de Registro e Inicio de Sesión: Crea un programa basado en menú (while y if/elif/else) con funciones de registro (validación estricta de email/contraseña) y login (3 intentos máximos), poniendo en práctica todos los conceptos del Bloque 1.
