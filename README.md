@@ -1,6 +1,6 @@
 # 2ASIR-OPTATIVAPYTHON
 
-Esto es un repositorio que contiene las actividades de Python de ASIR
+Esto es un repositorio que contiene las actividades de Python de 2ºASIR
 
 ## BLOQUE 1
 Ejercicio | Descripción
