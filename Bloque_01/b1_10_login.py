@@ -114,4 +114,5 @@ while True:
         print("👋 Saliendo del programa...")
         break
     else:
+
         print("⚠️ Opción no válida. Intenta de nuevo.")
