@@ -26,7 +26,8 @@ print(trunk_spaces + '#')
 
 import random
 
-size = int(input('Enter the tree size: '))
+print('Enter the tree size:')
+size = int(input())
 row = 1
 while row <= size:
     print(' ' * (size - row), end='')
@@ -44,4 +45,5 @@ while row <= size:
 t = 0
 while t < 2:
     print(' ' * (size - 1) + '#')
+
     t += 1
