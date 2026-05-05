@@ -32,8 +32,14 @@ Ejercicio | Descripción
 [Ejercicio9_2](Bloque_02/b2_09_2_zip_avanzado.py) | Reporte de notas con zip() y Diccionarios: Usa zip() para combinar cuatro listas de datos. Calcula el promedio de cada estudiante y, aplicando lógica condicional, determina su estado ("Aprobado", "En recuperación", "Reprobado"). Almacena todos los datos en un diccionario anidado.
 [Ejercicio10_1](Bloque_02/b2_10_1_enumerate.py) | Uso de enumerate(): Itera sobre una lista de nombres para mostrar el índice y el valor de cada elemento, y luego convierte el resultado de enumerate en una lista de tuplas (índice, valor).
 [Ejercicio10_2](Bloque_02/b2_10_2_enumerate_avanzado.py) | Reporte avanzado con enumerate() y zip(): Combina las listas de estudiantes y notas usando zip() y enumerate(start=1) para generar un informe indexado. El script calcula el promedio y asigna la calificación final (Aprobado, etc.) a cada estudiante.
-[Ejercicio11_2](Bloque_02/b2_11_2_iteradores_mejorado.py) | teradores Manuales y Reporte: Crea un iterador sobre las claves de un diccionario de estudiantes y notas. Recorre el iterador manualmente usando next() dentro de un bucle while True con manejo de StopIteration, y calcula el promedio y estado (Aprobado, etc.) para generar un reporte final.
+[Ejercicio11_2](Bloque_02/b2_11_2_iteradores_mejorado.py) | Iteradores Manuales y Reporte: Crea un iterador sobre las claves de un diccionario de estudiantes y notas. Recorre el iterador manualmente usando next() dentro de un bucle while True con manejo de StopIteration, y calcula el promedio y estado (Aprobado, etc.) para generar un reporte final.
 [Ejercicio_Final](Bloque_02/b2_people_crud_menu.py) | Sistema CRUD de Personas: Implementa un menú interactivo (while con match-case) para gestionar datos personales. Utiliza un diccionario anidado (people) donde el NIF/DNI es la clave principal y el valor es otro diccionario con los datos (name, age, city, profession). Implementa las funciones Crear (C), Buscar (R), Actualizar (U) y Eliminar (D).
+
+## BLOQUE 3
+Ejercicio | Descripción
+----------|------------
+[Ejercicio1](Bloque_03/b3_01_gestor_notas.py) | Gestor de notas sobre un archivo notas.txt con menú interactivo. Permite ver, añadir y eliminar notas. Usa open() con distintos modos (r, w, a) y la instrucción with para el manejo seguro de ficheros, e incluye control de errores con try/except.
+[Ejercicio2](Bloque_03/b3_02_mini_herramienta.py) | Herramienta con menú de opciones que combina módulos estándar y una librería externa. Permite realizar cálculos matemáticos con math, explorar el directorio actual y crear carpetas con os, y consultar la API pública de GitHub con requests. Incluye control de errores con try/except.
 
 ## EXAMEN 1
 Ejercicio | Descripción
